@@ -1,0 +1,10 @@
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\bin\Debug\14KlasaProces.exe.config
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\bin\Debug\14KlasaProces.exe
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\bin\Debug\14KlasaProces.pdb
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.csprojAssemblyReference.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\obj\Debug\_14KlasaProces.Form1.resources
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\obj\Debug\_14KlasaProces.Properties.Resources.resources
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.csproj.GenerateResource.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.csproj.CoreCompileInputs.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.exe
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\14KlasaProces\14KlasaProces\14KlasaProces\obj\Debug\14KlasaProces.pdb
